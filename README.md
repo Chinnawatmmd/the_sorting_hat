@@ -1,6 +1,6 @@
 # the_sorting_hat
 
-A new Flutter project.
+The Sorting Hat project.
 
 ## Getting Started
 
